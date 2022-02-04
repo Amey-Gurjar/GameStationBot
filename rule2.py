@@ -1,0 +1,21 @@
+from discord import Bot
+import discord
+from json import load
+mainIntents = discord.Intents.default()
+mainIntents.members = True
+mainIntents.presences = True
+mainBot = Bot(debug_guilds=load(open("token.json"))["guild"], activity=discord.Activity(type=discord.ActivityType.watching, name=f"GameStation"), intents=mainIntents, status=discord.Status.dnd)
+
+@mainBot.event 
+async def on_message(ctx):
+    if ctx.author != mainBot.user:
+        mainEmbed = discord.Embed(color= discord.Colour.from_rgb(255, 255, 0))
+        mainEmbed.add_field(name="**RULE 2 - No Spamming Or Trolling**", value="Any form of spamming or trolling is not tolerated here whatsoever. This can be as simple as intentionally flooding a chat with characters/words/phrases/pings, as well as consistently derailing conversations or the chat in a way that irritates the majority of users. More specific examples include:", inline=False)
+        mainEmbed.add_field(name="<a:arrow:928030180906237983> **Excessive uses of !youtube, posting images, or large embeds:**", value="This only applies to users with the permissions, as new users are unable to use these features. Those found breaking this rule will lose their permissions/role on first offense, and for future offenses, we will ban", inline=False)
+        mainEmbed.add_field(name="<a:arrow:928030180906237983> **Repeatedly mass pinging users:**", value="Beyond the intentional spam (flooding a chat pinging as many users as possible), this also applies to unnecessarily pinging users in a conversation. For the latter, this is more subject on a user-by-user basis--some may not mind the pings, but others will express a desire not to be pinged. For those not wanting to be pinged, excessively pinging them without consent is a breach of this rule.", inline=False)
+        mainEmbed.add_field(name="<a:arrow:928030180906237983> **Advertising your server via DM or publicly:**", value="Let's just be frank here—this doesn't work for getting people to join your servers, and we don't know why people even try. This includes small communities both relevant or irrelevant to Formal X, servers that offer Nitro in trade for invites (you're falling for a scam anyway), and so on. An exception to this rule is any server that we are affiliated with, or a server that can also be found in the community tab with a substantial userbase.", inline=False)
+        mainEmbed.add_field(name="<a:arrow:928030180906237983> **Excessively using emojis:**", value="We love emojis too! But if a user is spamming an emoji chain by themselves, in a single message or otherwise, this violates the rule. Please try to keep the number of emojis down in a single message to prevent the chat window from being filled up.", inline=False)
+        mainEmbed.add_field(name="<a:arrow:928030180906237983> **Usage of Copy Paste:**", value="This includes both pre-written sentences, paragraphs, general walls of text, and ASCII art. All they do is fill up the chat window and aren't really that funny. A soft exception is mimicking another user, so long as it is not in a discriminatory fashion (refer to Rule 1)", inline=False)
+        mainEmbed.add_field(name="<a:arrow:928030180906237983> **Some topics are considered trolling:**", value="A number of discussion topics have evolved past the point of being productive, and have soured, as they are frequently brought up by those only wanting to incite arguments and fighting. Some come very close to our earlier mentions of discrimination. These and other discussions (at mod discretion) are not outright banned—as we want to allow users to feel like they are not being limited in their discussion—but these topics are frequently used by bad actors and are almost always considered trolling, so they are heavily moderated and discouraged. Examples include but are not limited to:\n```• Comparing Spider-Man actors and their films to one another (esp. in favor of Raimi trilogy, punching down on others)\n``````• Brie Larson, i.e. being 'arrogant', a 'bad actor', etc.\n``````• Conversations that are attacking any attempts at widening the demographics of any media under the idea of 'forced diversity' or any 'minority agenda', regardless of quality of said attempts.```")
+        await ctx.channel.send(embed=mainEmbed)
+mainBot.run(load(open("token.json", "r"))["token"])

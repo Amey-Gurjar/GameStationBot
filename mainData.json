@@ -1,0 +1,149 @@
+{
+    "botInfo": {
+        "devName": 730518724984963183,
+        "adminRole": 920463123016712252
+    },
+    "bannedWords": ["bhosdike", "madarchod", "maderchod", "behenchod", "randichod", "randi", "lund", "chut", "bhosdiwala", "gandu", "gaand", "gand", "gandu", "lodu", "chutiya", "fuck", "motherfucker", "fucker", "chodu", "mc", "bc", "lawda", "lavda", "lavde", "lawde", "madrchod", "bahinchod", "bsdk", "bhosda", "bhsda", "chinaal", "cheenal", "chinal", "cheenaal", "chhinal", ":middle_finger:", "dick", "penis", "vagina", "pussy", "cum", "bhadwe", "bhdwe", "bhadwa", "bhdwa", "chod", "chud", "nigga", "niga", "neegga", "neega", "bitch", "beetch", "lauda", "loda", "choot", "cumm", "cum"],
+    "gameRoles": {
+        "Valorant": 928053395909120051,
+        "CSGO": 928053506714255360,
+        "GTA V": 929092230214483978,
+        "PUBG": 928053577828663337,
+        "BGMI": 928053663124058152,
+        "Free Fire": 928053743017136128,
+        "CODM": 928053821530341416,
+        "Minecraft": 928649515723010118,
+        "Genshin Impact": 928053912613842984,
+        "Others": 928786675633627216
+    },
+    "gameChannels": {
+        "Valorant": 928264008669212722,
+        "CSGO": 928278356280082433,
+        "GTA V": 929092864095420466,
+        "PUBG": 928281210520760343,
+        "BGMI": 928283407149056020,
+        "Free Fire": 928284629721559060,
+        "CODM": 928286115281133599,
+        "Minecraft": 928650856298053702,
+        "Genshin Impact": 928291397444960306,
+        "Others": 928786974347776020
+    },
+    "embedOption": {
+        "welcomeGif": "https://media.giphy.com/media/JErHUxE4lLC9FxfJkE/giphy.gif",
+        "gameTypeOption": ["Valorant", "CSGO", "PUBG", "BGMI", "Free Fire", "CODM", "Minecraft", "Genshin Impact", "Others"]
+    },
+    "gameContent": {
+        "Valorant": {
+            "embedGif": ["https://media.giphy.com/media/50US9nbrkJIZsZ8ooe/giphy.gif", "https://media.giphy.com/media/mEwcz1d6CdkFVYTfkj/giphy.gif", "https://media.giphy.com/media/FUigkjlCNqMgEU7Ia9/giphy.gif", "https://media.giphy.com/media/Uoftsdva1tgPXNm5Gb/giphy.gif"]
+        },
+        "CSGO": {
+            "embedGif": ["https://media.giphy.com/media/2ouYAZI7CQgIj1xrdk/giphy.gif", "https://media.giphy.com/media/AlB5w7IGP3zmbtrNFl/giphy.gif", "https://media.giphy.com/media/dnnV3UrWfOKBwnHHXf/giphy.gif", "https://media.giphy.com/media/MZMyHimTY5sl1inKKH/giphy.gif", "https://media.giphy.com/media/EJecB1q3feE0OVdymq/giphy.gif", "https://media.giphy.com/media/b0I73sv7AUASfSvjlj/giphy.gif"]
+        },
+        "GTA V": {
+            "embedGif": ["https://media.giphy.com/media/dMXSRrl9JFW68Qxpn6/giphy.gif", "https://media.giphy.com/media/xlNlG9IyrsUKbxNHRO/giphy.gif", "https://media.giphy.com/media/FDo9LK9JeNmT6uyPdK/giphy.gif", "https://media.giphy.com/media/WSezKOrlfUYB9Levh9/giphy.gif", "https://media.giphy.com/media/WSezKOrlfUYB9Levh9/giphy.gif"]
+        },
+
+        "PUBG": {
+            "embedGif": ["https://media.giphy.com/media/1YD8BRGWligayRi2ND/giphy.gif", "https://media.giphy.com/media/kZOjjALDrWhStio4DC/giphy.gif", "https://media.giphy.com/media/G2ZGO9P8hmzfa22i6z/giphy.gif", "https://media.giphy.com/media/uIctzIgJBxKo6HWghl/giphy.gif"]
+        },
+
+        "BGMI": {
+            "embedGif": ["https://media.giphy.com/media/1YD8BRGWligayRi2ND/giphy.gif", "https://media.giphy.com/media/kZOjjALDrWhStio4DC/giphy.gif", "https://media.giphy.com/media/G2ZGO9P8hmzfa22i6z/giphy.gif", "https://media.giphy.com/media/uIctzIgJBxKo6HWghl/giphy.gif"]
+        },
+        "Free Fire": {
+            "embedGif": ["https://media.giphy.com/media/ltoT5TzgORb5kZKWQW/giphy.gif", "https://media.giphy.com/media/lWMo3iAKoj4KQCQAct/giphy.gif"]
+        },
+        "CODM": {
+            "embedGif": ["https://media.giphy.com/media/Orug8BgGyorIEalemy/giphy.gif", "https://media.giphy.com/media/PuZYRO4AkdSuv5673A/giphy.gif", "https://media.giphy.com/media/zEXwEF1IDrpHGCOrad/giphy.gif", "https://media.giphy.com/media/Wrhy7rpJ6UqHlb1fwH/giphy.gif"]
+        },
+        "Minecraft": {
+            "embedGif": ["https://media.giphy.com/media/m60p4EKdT6vJkdLwTZ/giphy.gif", "https://media.giphy.com/media/jrTc8KF4C0dl8ffNTU/giphy.gif", "https://media.giphy.com/media/7FO7yz0PCH7Z71nkpv/giphy.gif", "https://media.giphy.com/media/1EPMgV9QNGtrvv7hQ1/giphy.gif", "https://media.giphy.com/media/J7FTwxGBw9gr2tGV5n/giphy.gif", "https://media.giphy.com/media/7Gp8dGwEo3gCrj1oAu/giphy.gif"]
+        },
+        "Genshin Impact": {
+            "embedGif": ["https://media.giphy.com/media/jDOw3BIFKGYiuOeBRd/giphy.gif", "https://media.giphy.com/media/LhnnyHxE6zQ1IXKCyq/giphy.gif", "https://media.giphy.com/media/qpY65DtAjmCxrdk2KF/giphy.gif", "https://media.giphy.com/media/OKnQfQY3T1EHsspeup/giphy.gif", "https://media.giphy.com/media/e5juiyZkioazBsPCQm/giphy.gif"]
+        },
+        "Others": {
+            "embedGif": ["https://media.giphy.com/media/jj92v1MSOuuJlIsTkT/giphy.gif", "https://media.giphy.com/media/CX6l6eGn8EpYZcyixr/giphy.gif", "https://media.giphy.com/media/7Ar3MgnhRDBsvN7fsY/giphy.gif", "https://media.giphy.com/media/7ybBUJKWXCw4msVxTp/giphy.gif"]
+        }
+    },
+    "serverChannels": {
+        "systemLogs": 928022434567831574,
+        "gameRolesMessage": 938218266353098762,
+        "welcomeChannel": 927945587679191070,
+        "gameRoles": 928045490753388544,
+        "generalChat": 920458782780293184,
+        "rulesChannel": 928024506000359464,
+        "joinChannel": 923750789879586896
+    },
+    "gsPoints": {
+        "gsLvlChannel": 928306283797434420,
+        "managePtsChannel": 928306379360448552,
+        "gsPtsChannel": 928305713263038474
+    },
+    "memeData": {
+        "slapImage": "https://ameybot.s3.ap-south-1.amazonaws.com/ameyDcBot/CBR+MEMES/slap.png",
+        "gayImage": "https://ameybot.s3.ap-south-1.amazonaws.com/ameyDcBot/CBR+MEMES/gay.png",
+        "deleteImage": "https://ameybot.s3.ap-south-1.amazonaws.com/ameyDcBot/CBR+MEMES/delete.png"
+    },
+    "weatherData": {
+        "clearDay": "https://th.bing.com/th/id/R.6ce7b9ce84e7bcc15af6bf3fe95a7416?rik=iwxCeYwpxPK7tw&riu=http%3a%2f%2ffc07.deviantart.net%2ffs6%2fi%2f2005%2f028%2fb%2f6%2fClear_Day_by_juanchis.jpg&ehk=Hh3e1%2f25IkumLraV%2bh6TDfnEeLhcMxxB63n%2bsKjBq7E%3d&risl=&pid=ImgRaw&r=0",
+        "sunnyDay": "https://th.bing.com/th/id/R.5ec2140cef12a3473376c3a054904f1d?rik=i0RE95y4jGn6hw&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fhXOg5he.jpg&ehk=2GIy7eWt9A5p%2f01zlQKxg8u4ZzW%2bbDu7Z1VPm13rF%2fA%3d&risl=&pid=ImgRaw&r=0",
+        "smokeDay": "https://i1.wp.com/fromthetrenchesworldreport.com/wp-content/uploads/2017/08/smoky-road.jpg",
+        "rainyDay": "https://th.bing.com/th/id/R.ad01bb79ba809002b8a87115f23a995c?rik=Mdbt3mAGk%2baNWw&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fb%2f0%2f4%2f770036-rainy-day-background-1920x1200-for-hd-1080p.jpg&ehk=zKMF5yvmg7s8StJDjGlVi2%2bizR5RNejTVz%2fpbAd7alw%3d&risl=&pid=ImgRaw&r=0",
+        "snowDay": "https://th.bing.com/th/id/OIP.b36GS7kYnCNlGbqeAmHaoAHaEo?pid=ImgDet&rs=1",
+        "cloudsDay": "https://th.bing.com/th/id/R.f53af6e431b4d1703508da1d990073a7?rik=gHQBN%2b8F1jONxA&riu=http%3a%2f%2fwww.publicdomainpictures.net%2fpictures%2f30000%2fvelka%2fcloudy-day-2.jpg&ehk=9q729eayF9Im7ItXIuzlrKdfgKvGwuGfNRBRWo%2bO7GU%3d&risl=&pid=ImgRaw&r=0"
+    },
+    "gameData": {
+        "playersObject": ["X", "O"],
+        "gameWinPos": [
+            [0, 1, 2],
+            [0, 2, 1],
+            [1, 0, 2],
+            [1, 2, 0],
+            [2, 0, 1],
+            [2, 1, 0],
+            [3, 4, 5],
+            [3, 5, 4],
+            [4, 3, 5],
+            [4, 5, 3],
+            [5, 3, 4],
+            [5, 4, 3],
+            [6, 7, 8],
+            [6, 8, 7],
+            [7, 6, 8],
+            [7, 8, 6],
+            [8, 6, 7],
+            [8, 7, 6],
+            [0, 3, 6],
+            [0, 6, 3],
+            [3, 0, 6],
+            [3, 6, 0],
+            [6, 0, 3],
+            [6, 3, 0],
+            [1, 4, 7],
+            [1, 7, 4],
+            [4, 1, 7],
+            [4, 7, 1],
+            [7, 1, 4],
+            [7, 4, 1],
+            [2, 5, 8],
+            [2, 8, 5],
+            [5, 2, 8],
+            [5, 8, 2],
+            [8, 2, 5],
+            [8, 5, 2],
+            [0, 4, 8],
+            [0, 8, 4],
+            [4, 0, 8],
+            [4, 8, 0],
+            [8, 0, 4],
+            [8, 4, 0],
+            [2, 4, 6],
+            [2, 6, 4],
+            [4, 2, 6],
+            [4, 6, 2],
+            [6, 2, 4],
+            [6, 4, 2]
+        ]
+    }
+}

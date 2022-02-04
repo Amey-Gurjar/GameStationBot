@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gamestationbot-85c65",
+  "private_key_id": "a42c1b49af1be7e55e21012599ac6205aef80373",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDl/eYB/CaxTXVS\nSFvs8gInZWEXv6dvNsXnO4TKz5Y+egQym2hc5y1jafTT3w2z5EcQEiMnsp33GbAX\nRRTjqmtaP9M+hqM5KA+uBF3y/jywMqasAEukQSN1HHxpdem9DmPWXC8nP4WqtrHC\n+m1Ygs+/Dx45fQATWAQDnMFqLmUmWyJstLqDvjidmk0D8hm4Z12OwWvMjugSunXx\nDt7UMo94tztwmaeNlngGHOwn6YlvFjSMXyByqMPXiXBTdrIS5T1uCl5n3mrByx7Q\nGcyiCBhOvh3DiBw0hDFPq/+bipmipfTZxiUuT7Co3g0q3vBN9iiQ3T6J7ypow8zp\nTuzlcNc/AgMBAAECggEAUuj0JUwKgMk9HYQDS4g0uZIE7eRDzkZPEpw0s04hSfV/\nlOTMOw2Fobx9K3HSBUMqUQNQ1AtCgeUrQ0A+lxIE8DxpATXVGpI0ENX3LlVzeEtS\nJVhX7GclCp9RxEzjDanl2M1TnFD8dT22GGVhzNIfZS9khHHo+JA2pjy4xvfhs/Dg\npgVsPgkjYlCgWTN7/RGPi/WC9wCESt2xnszm43lwaT6m23P5jKLX2tgIrU0TkajX\nod1mpnXXD7D2wC2pZUt6I8wMWAwuy/dn1qgvVlgpWxg+4pRh476XmHa/hEef544g\nm1xs9zutn3y8oPBxvXY4j1UdPohqSJ+nN2KPybaWLQKBgQDy/WN05FbxAT0uApGD\nUXBIachILU1GUtEmksZ3aZzyEWHUWfXDihGHsIkA4Nphx812Lg7e852YqZy1iRxZ\nOdmi8ZxSjTWVxF39ohECmWIIGZo4g62tDWb8U+34eJJsIUUtHpgxIGqAhL+w9N6w\nw5kigqHUEWS4KDUnYRhulzWxRQKBgQDyTllTUy4/I0Nn9t+0fhUsFsLwhqYJwgN+\nqTY4M26thnbKvP9z5oTBM8FWPTIn4OHuTbOyAsH3sAS53iwl5gtPxUVqh8xZDI0B\nTOTwbhDefuzW2ySVZAnNR3r/hjDc7GLafk8wPsHstr56k4NAHwfAYZLIocZHIuUg\n4sZpdGKUswKBgQDnb8rL6jSY5ho0eYPJNMciYYa+oE9qvLSy7beUwwYWVdH9JRX9\nAcOCnvVO3duCqICcoG/PkO+5GUvGaGqU3ZHaLhA7XH3+QQNY8YUMGbWSi3glfd3s\n5sgBa5tMPuMPlHzD5dEFcZ+e+1FtJT351MNFaHDkgRCSitFdyZAwvVsJlQKBgC/Q\nDghHLaT/zFlDebkf+AWPKEBWEYVzZ0UjFrPYUkqjceVnjfDM1/1XvRrLUI5V7b8c\nTg0eRjAd55DVqliAIFNJVf1DdqtLsrdC+RoIXgPJf+qVq45fAyAirr6lOBcf/hGn\nQvD+MT4IgWWmnguVE+5+UnyMj5eR5yyqEwTUFm/JAoGBAK3QSG9uiB3ppLanVitT\nBj3AM1zirywS+9ocBvOMIfBCAZQHvFfg2TxxFjbF3f2pYNUY8Mk4SlujckGS7f1M\n/iKP7LD1gJcIuZHY89HxhtRPOU9GER8J3V6E5hoOI6XZFly2F6Ukgo/yihRRJWN3\nctBADRw8K82bf+xtwn3AQTCh\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-p2bpo@gamestationbot-85c65.iam.gserviceaccount.com",
+  "client_id": "117526001828762499784",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-p2bpo%40gamestationbot-85c65.iam.gserviceaccount.com"
+}
